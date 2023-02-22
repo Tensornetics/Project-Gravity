@@ -1,4 +1,6 @@
-# Project-Gravity
+# Project Gravity
+
+Project Gravity is a Python library for simulating and analyzing the behavior of gravity using tools from general relativity. It's designed to be modular, extensible, and easy to use, and relies on a tensor-based method for simulating the gravitational field.
 
 ```
 project-gravity/
